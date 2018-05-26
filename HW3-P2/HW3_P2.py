@@ -332,4 +332,4 @@ minTree = mstPrim(inputGraph)
 print ("The edges of the minimum spanning tree, with {} as the root are:".format(inputGraph[0][0].get_data()))
 for v in minTree:
     print (v)
-#CHANGEmade
+#CHANGEmades
