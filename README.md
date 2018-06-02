@@ -1,3 +1,3 @@
 # practice
 
-This old homework project is supposed to create a graph and then analyze it -- find the single source shortest path, find all paths
+This project creates a graph and then analyze it, finding the single source shortest path uing Djikstra's Algorithm and finds all-pairs shortest path using Floyd Warshall.
